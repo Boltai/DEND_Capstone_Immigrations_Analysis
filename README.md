@@ -29,11 +29,11 @@
 
 ## Tools Used
 - I used Spark and Pandas to make data pipeline
-- I found ELT approach interesting, so I decided to use Spark to utilize it schema on read feature.
+- I found ELT approach interesting, so I decided to use Spark to utilize its schema on read feature.
 - Also, size of the I94 Immigration Data set is huge. Distributed processing tools were needed. 
 
 ## Limitations
-- I've used Spark local mode on a single node. The pipeline was build and tested with subset of the given data. 
+- I've used Spark local mode on a single node. The pipeline was built and tested with subset of the given data. 
 - During the project, I concentrated on making the pipeline. There are no real analysis done in the Jupyter notebook. 
-- Codes are only written in the jupyter notebook (No spark scripts, although anyone can transfrom jupyter notebook codes into a spark script in no time.)
+- Codes are only written in the jupyter notebook (No spark scripts. although anyone can transfrom jupyter notebook codes into a spark script in no time.)
 
