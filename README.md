@@ -2,4 +2,4 @@
 Udacity Data Engineer Nanodegree Capstone Project : I94 Immigration Data Analysis with Spark
 
 ### Data Model
-![ERD]("./ERD.PNG")
+![ERD](ERD.png)
